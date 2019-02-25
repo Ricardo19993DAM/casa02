@@ -1,5 +1,9 @@
 package fate;
-
+/**
+ * 
+ * @author ricardo99
+ *
+ */
 public class Mago {
 	protected String nombre;
 	protected String clase;
